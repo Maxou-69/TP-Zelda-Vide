@@ -180,6 +180,7 @@ i {
 
 
 .myFlex {
+  border-radius: 1vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
